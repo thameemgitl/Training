@@ -1,1 +1,1 @@
-This is my training 1 text file
+This is my training 1 text file updated on training 2
